@@ -36,4 +36,4 @@ System will download a benchmark dataset (stored under temp directory), train ac
 License
 =======
 
-Code released under the [license from Tampere University of Technology](https://github.com/TUT-ARG/CASSE_book_ch2_examples/LICENSE). Code is free to use for experimental and non-commercial purposes.
+Code released under the [license from Tampere University of Technology](https://raw.githubusercontent.com/TUT-ARG/CASSE_book_ch2_examples/master/LICENSE). Code is free to use for experimental and non-commercial purposes.
