@@ -27,7 +27,7 @@ An example system to show how to tackle detection problem in audio analysis. Sou
 Getting started
 ===============
 
-1. Clone repository from [Github](https://github.com/TUT-ARG/cassebook_example_systems) or download [latest release](https://github.com/TUT-ARG/cassebook_example_systems/releases/latest).
+1. Clone repository from [Github](https://github.com/TUT-ARG/CASSE_book_ch2_examples) or download [latest release](https://github.com/TUT-ARG/CASSE_book_ch2_examples/releases/latest).
 2. Install requirements with command: ``pip install -r requirements.txt``
 3. Run the system: ``python single_label_classification.py``
 
@@ -36,4 +36,4 @@ System will download a benchmark dataset (stored under temp directory), train ac
 License
 =======
 
-Code released under the [license from Tampere University of Technology](https://github.com/TUT-ARG/cassebook_example_systems/LICENSE). Code is free to use for experimental and non-commercial purposes.
+Code released under the [license from Tampere University of Technology](https://github.com/TUT-ARG/CASSE_book_ch2_examples/LICENSE). Code is free to use for experimental and non-commercial purposes.
